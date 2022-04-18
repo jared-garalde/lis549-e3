@@ -1,0 +1,28 @@
+font-weight: 300;
+font-family: 'Roboto'; 
+text-align: center; 
+table {
+  width: 100%; 
+  margin-left: auto;
+  margin-right: auto; 
+}
+thead {
+  height: 2em; 
+  text-align: left;
+  color: #1db954;
+  background: #d3d3d3; 
+  border-collapse: collapse; 
+}
+img {
+  size: 1000px;
+}
+td, tr {
+  padding: .5em;
+  border-bottom: 1px solid #d3d3d3; 
+}
+tbody tr:nth-child {
+  background: #eee;
+}
+tbody tr:hover {
+  background: #pink;
+}

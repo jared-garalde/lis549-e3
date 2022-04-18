@@ -1,5 +1,5 @@
 font-weight: 300;
-font-family: 'Roboto'; 
+font-family: "Roboto"; 
 text-align: center; 
 table {
   width: 100%; 
@@ -14,7 +14,7 @@ thead {
   border-collapse: collapse; 
 }
 img {
-  size: 1000px;
+  size: 100px;
 }
 td, tr {
   padding: .5em;
